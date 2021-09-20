@@ -6,6 +6,7 @@ Trivia game consist of three parts:
     - Start screen
     - Questions screen
     - Result screen
+
 heroku link to the project: [here](https://trivia-quiz-game-noroff.herokuapp.com/#/)
 
 ### Start screen
